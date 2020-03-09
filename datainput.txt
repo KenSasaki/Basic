@@ -1,0 +1,15 @@
+
+target: ? kwh / client ID , Total 
+
+input:  
+  ID: customer ID 
+  time:  yymmdd:hhmmss --> 
+  usage:  used kwh 
+  Geo location <-- zip code
+  size of facility:  # of area, 
+  weather: temperature, humidity, weather, 
+  type of business: grouping 
+  
+  
+  
+  
